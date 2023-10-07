@@ -1,5 +1,5 @@
 ## Inicializacion del proyecto
-
+yarn create react-app ecommerce
 `yarn create react-app netflix-ya --template redux`
 
 ### Proceso de limpieza

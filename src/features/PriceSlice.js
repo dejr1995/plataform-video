@@ -18,4 +18,4 @@ export const { setPrice } = priceSlice.actions;
 
 export const selectPrice = state => state.price.price;
 
-export default priceSlice.reducer;
+export default priceSlice;
